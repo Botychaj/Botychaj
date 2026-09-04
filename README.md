@@ -5,7 +5,7 @@ Memes a lot
 <hr></hr>
 Most of my projects are made with my friend <a href=https://github.com/Wiwerna>Wiwerna</a>
 <hr></hr>
-<!--![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg?raw=true)-->
+<p align=center><img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg?raw=true)></p>
 <!--
 **Botychaj/Botychaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
