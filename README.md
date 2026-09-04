@@ -1,6 +1,9 @@
-## Hi there 👋
 <hr></hr>
-
+Goofy and silly
+Shy like their idol SCP-096
+Memes a lot
+<hr></hr>
+Most of my projects are made with my friend <a href=https://github.com/Wiwerna>Wiwerna</a>
 <!--
 **Botychaj/Botychaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
