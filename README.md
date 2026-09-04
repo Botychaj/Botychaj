@@ -1,6 +1,7 @@
 <h1 align=center>🩵🩷🩵🩷🩵🩷🩵</h1>
 <hr></hr>
 <p align=center>
+Does mostly IT stuff while coding from time to time, learning how to improve in drawing and graphic design<br>
 Goofy and silly<br>
 Shy like their idol SCP-096<br>
 Memes a lot<br>
