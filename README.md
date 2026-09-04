@@ -14,6 +14,7 @@ Most of my projects are made with my friend <a href=https://github.com/Wiwerna>W
 <img width=30 src=https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg?raw=true)><img width=30 src=https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/html5/html5-original.svg>
 <img width=30 src=https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/javascript/javascript-original.svg>
 <img width=30 src=https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/lua/lua-original.svg>
+<img width=30 src=https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/mysql/mysql-original-wordmark.svg>
 </p>
 <!--
 **Botychaj/Botychaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
