@@ -1,9 +1,9 @@
 <hr></hr>
-Goofy and silly
-Shy like their idol SCP-096
+Goofy and silly<br>
+Shy like their idol SCP-096<br>
 Memes a lot
 <hr></hr>
-Most of my projects are made with my friend <a href=https://github.com/Wiwerna>Wiwerna</a>
+Most of my projects are made with my friend <a href=https://github.com/Wiwerna>Wiwerna</a> <3
 <hr></hr>
 <p align=center>
 <img width=30 src=https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/gimp/gimp-original.svg>
