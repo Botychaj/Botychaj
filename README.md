@@ -1,11 +1,15 @@
 <h1 align=center>🩵🩷🩵🩷🩵🩷🩵</h1>
 <hr></hr>
 <p align=center>
-Does mostly IT stuff while coding from time to time, learning how to improve in drawing <a href=https://github.com/Botychaj/Botychaj/tree/main/Drawing%20History>(drawing history)</a> and graphic design<br>
+<h2>hiiii!!1! x3</h2>
+I do mostly IT stuff and coding from time to time<br>
+I'm currently learning how to improve my drawing <a href=https://github.com/Botychaj/Botychaj/tree/main/Drawing%20History>(drawing history)</a> and graphic design skills<br>
 Goofy and silly<br>
-Shy like their idol SCP-096<br>
-Memes a lot<br>
-Cooks while coding (expert in making their code an absolute spaghetti bolognese)
+I'm shy like my idol - SCP-096<br>
+Shitposter and memer<br>
+I absolutely cook while coding (by that I mean that I'm an expert in making my code an absolute spaghetti bolognese)<br>
+I'm interested in math, physics and science (probably the next Einstein if I weren't lazy af)<br>
+I suspect that I have mild ADHD and being a little autistic but I can't be bothered to diagnose it :3
 </p>
 <hr></hr>
 Most of my projects are made with my friend <a href=https://github.com/Wiwerna>Wiwerna</a> <3
@@ -21,7 +25,7 @@ Most of my projects are made with my friend <a href=https://github.com/Wiwerna>W
 </p>
 <hr></hr>
 <h3>My most recent drawing:</h3>
-<img width=600 src=https://raw.githubusercontent.com/Botychaj/Botychaj/refs/heads/main/Drawing%20History/Untitled44_20260515021452.png>
+<img width=300 src=https://raw.githubusercontent.com/Botychaj/Botychaj/refs/heads/main/Drawing%20History/Untitled44_20260515021452.png>
 
 <!--
 **Botychaj/Botychaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
