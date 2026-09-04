@@ -21,7 +21,7 @@ Most of my projects are made with my friend <a href=https://github.com/Wiwerna>W
 </p>
 <hr></hr>
 <h3>My most recent drawing:</h3>
-<img src=https://raw.githubusercontent.com/Botychaj/Botychaj/refs/heads/main/Drawing%20History/Untitled44_20260515021452.png>
+<img width=600 src=https://raw.githubusercontent.com/Botychaj/Botychaj/refs/heads/main/Drawing%20History/Untitled44_20260515021452.png>
 
 <!--
 **Botychaj/Botychaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
