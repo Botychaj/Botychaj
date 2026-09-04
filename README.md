@@ -1,7 +1,9 @@
+<h1 align=center>🩵🩷🩵🩷🩵🩷🩵</h1>
 <hr></hr>
 Goofy and silly<br>
 Shy like their idol SCP-096<br>
-Memes a lot
+Memes a lot<br>
+Cooks while coding (expert in making their code an absolute spaghetti bolognese)
 <hr></hr>
 Most of my projects are made with my friend <a href=https://github.com/Wiwerna>Wiwerna</a> <3
 <hr></hr>
