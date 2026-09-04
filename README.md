@@ -1,6 +1,6 @@
-<h1 align=center>🩵🩷🩵🩷🩵🩷🩵</h1>
+<h1 align=center>🩵🩷🩵🩷🩵🩷🩵🩷🩵🩷🩵🩷🩵</h1>
 <hr></hr>
-<h2 align=center>hiiii!!1! x3</h2>
+<h2 align=center>🩵🩷hiiii!!1! x3🩷🩵</h2>
 <p align=center>
 I do mostly IT stuff and coding from time to time<br>
 I'm currently learning how to improve my drawing <a href=https://github.com/Botychaj/Botychaj/tree/main/Drawing%20History>(drawing history)</a> and graphic design skills<br>
