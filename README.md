@@ -1,4 +1,4 @@
-<div align=center><img src=https://github.com/Botychaj/Botychaj/blob/main/Designs/banner.png?raw=true></div>
+<div align=center><img src=https://github.com/Botychaj/Botychaj/blob/main/Designs/banner2.png?raw=true></div>
 <h1 align=center>🩵🩷🩵🩷🩵🩷🩵🩷🩵🩷🩵🩷🩵</h1>
 <hr></hr>
 <h2 align=center>🩵🩷hiiii!!1! x3🩷🩵</h2>
