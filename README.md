@@ -4,7 +4,7 @@
 <h2 align=center>🩵🩷hiiii!!1! x3🩷🩵</h2>
 <p align=center>
 I do mostly IT stuff and from time to time coding<br>
-I'm currently learning how to improve my drawing <a href=https://github.com/Botychaj/Botychaj/tree/main/Drawing%20History>(drawing history)</a> and graphic design skills<br>
+I'm currently learning how to improve my <a href=https://github.com/Botychaj/Botychaj/tree/main/Drawing%20History>drawing</a> and <a href=https://github.com/Botychaj/Botychaj/tree/main/Designs>graphic design</a> skills<br>
 Goofy and silly<br>
 I'm shy like my idol - SCP-096<br>
 Shitposter and memer<br>
